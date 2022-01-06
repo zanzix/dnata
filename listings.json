@@ -1,0 +1,26 @@
+{
+    "listings" : [
+        { "title" : "Grand Hyatt Dubai" 
+        , "stars" : 5
+        , "location" : "Bur Dubai Area, Dubai" 
+        , "rating" : 9.2
+        , "smiley" : "happy" 
+        , "numReviews" : 92 
+        , "includesRoom" : true
+        , "includesLocalCharge" : true
+        , "totalPrice" : 526
+        , "perPerson" : 108
+        },
+        { "title" : "Second Hyatt Dubai" 
+        , "stars" : 4
+        , "location" : "String" 
+        , "rating" : 2.8
+        , "smiley" : "happy" 
+        , "numReviews" : 42 
+        , "includesRoom" : false
+        , "includesLocalCharge" : true
+        , "totalPrice" : 908
+        , "perPerson" : 256
+        }
+    ] 
+}
