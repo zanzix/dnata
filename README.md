@@ -1,3 +1,10 @@
+To run the app:
+  launch json-server: 'json-server listings.json --port 3001' 
+  launch the app: 'elm-app start' 
+
+to run the tests:
+  run 'elm-test'
+  
 We would like you to build a feature for displaying hotel listings.
 
 We recommend you use a tool like [JSON Server](https://github.com/typicode/json-server) to mock the data, rather than build out any APIs.
